@@ -1,5 +1,6 @@
 
 # 🛒 E-Commerce Website
+
 A simple static e-commerce homepage built using **HTML5** and **CSS3**, inspired by Amazon’s layout and design.
 
 ---
@@ -59,8 +60,6 @@ E-commerce-website/
 ## 👨‍💻 Author
 
 **Saiteja Vurukonda**
-🔗 [GitHub Profile](https://github.com/Saitejavurukonda)
-
-```
+🔗 [GitHub Profile](https://github.com/Saitejavurukonda) 
 
 
