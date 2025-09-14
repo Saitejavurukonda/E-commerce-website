@@ -44,7 +44,7 @@ E-commerce-website/
 
 ## 🌍 Live Demo
 
-🔗 [View Live Demo](https://saitejavurukonda.github.io/E-commerce-website/)
+[View Live Demo](https://saitejavurukonda.github.io/E-commerce-website/)
 
 ---
 
@@ -60,6 +60,7 @@ E-commerce-website/
 ## 👨‍💻 Author
 
 **Saiteja Vurukonda**
-🔗 [GitHub Profile](https://github.com/Saitejavurukonda) 
+[GitHub Profile](https://github.com/Saitejavurukonda)
 
-
+```
+```
