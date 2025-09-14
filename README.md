@@ -1,12 +1,5 @@
-Here’s the **final README.md with professional badges** added for GitHub Pages, HTML, and CSS. You can copy-paste it directly:
 
-```markdown
 # 🛒 E-Commerce Website
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://saitejavurukonda.github.io/E-commerce-website/) 
-[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 A simple static e-commerce homepage built using **HTML5** and **CSS3**, inspired by Amazon’s layout and design.
 
 ---
