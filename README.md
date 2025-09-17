@@ -68,5 +68,3 @@ E-commerce-website/
 ## 👨‍💻 Author
 
 **Saiteja Vurukonda**
-🔗 [GitHub Profile](https://github.com/Saitejavurukonda) 
-
