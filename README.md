@@ -46,7 +46,7 @@ E-commerce-website/
    git clone https://github.com/Saitejavurukonda/E-commerce-website.git
 ````
 
-2. Open `index.html` in your browser.
+2. Open index.html in your browser.
 
 ## 🌍 Live Demo
 
