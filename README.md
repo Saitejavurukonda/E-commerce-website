@@ -1,10 +1,4 @@
-Got it 👍
 
-The reason your links aren’t “clickable” in the `README.md` is likely because of **extra backticks (\`\`\`\`)** around your code blocks. GitHub is treating some parts like code instead of markdown text.
-
-Here’s a **fixed version** of your README where all links will work properly:
-
-```markdown
 # 🛒 E-Commerce Website
 
 A simple static e-commerce homepage built using **HTML5** and **CSS3**, inspired by Amazon’s layout and design.
