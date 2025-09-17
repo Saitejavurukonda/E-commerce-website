@@ -48,13 +48,11 @@ E-commerce-website/
 
 2. Open `index.html` in your browser.
 
----
-
 ## 🌍 Live Demo
 
 🔗 [View Live Demo](https://saitejavurukonda.github.io/E-commerce-website/)
 
----
+
 
 ## 📌 Future Improvements
 
@@ -73,3 +71,6 @@ E-commerce-website/
 ```
 
 
+
+Do you also want me to add your **Instagram handle** in the Author section?
+```
