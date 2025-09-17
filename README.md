@@ -1,9 +1,15 @@
-Got it! I’ve fixed the formatting and links so everything works correctly in **GitHub Markdown**. Here’s the final copy-ready **README.md** for your E-commerce project:
 
-```markdown
 # 🛒 E-Commerce Website
 
 A simple static e-commerce homepage built using **HTML5** and **CSS3**, inspired by Amazon’s layout and design.
+
+---
+
+## ⚠️ Disclaimer
+**DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT.**  
+This is **NOT** the official site of any company or brand.  
+The creator of this project is **NOT affiliated** with any company or brand in any way.  
+This page is a personal project made in connection with an **educational exercise**.
 
 ---
 
@@ -62,6 +68,5 @@ E-commerce-website/
 ## 👨‍💻 Author
 
 **Saiteja Vurukonda**
-[GitHub Profile](https://github.com/Saitejavurukonda)
+🔗 [GitHub Profile](https://github.com/Saitejavurukonda) 
 
-```
