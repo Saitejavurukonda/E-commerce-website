@@ -68,9 +68,8 @@ E-commerce-website/
 **Saiteja Vurukonda**
 🔗 [GitHub Profile](https://github.com/Saitejavurukonda)
 
-```
 
 
 
-Do you also want me to add your **Instagram handle** in the Author section?
-```
+
+
